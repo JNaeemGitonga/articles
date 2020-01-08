@@ -1,4 +1,4 @@
-# Tech Aticles by Naeem Gitonga
+# Tech Articles by Naeem Gitonga
 
 ### [SAM, deploy GoLambda w/MongoDB](https://medium.com/@blackb8r/sam-deploys-golambda-w-mongodb-a03cd97bae45)
 Published December, 2019 <br/>

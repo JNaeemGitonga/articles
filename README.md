@@ -27,3 +27,4 @@ Part I of my micro service series, I demonstrate how to "Dockerize" a Node app u
 ### [React Context-Api and Lazy-loading](https://medium.com/swlh/react-context-api-and-lazy-loading-4c4b0a48f696)
 Published  December, 2018 <br/>
 This article demonstrates lazy-loading and React's context-api.
+This article got picked up by [The Startup](https://medium.com/swlh).
